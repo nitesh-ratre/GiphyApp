@@ -1,6 +1,6 @@
 {
-  "homepage": "https://yourusername.github.io/repository-name",
-  "name": "adv1-random-gif-generator",
+  "homepage": "https://nits-hub.github.io/GiphyApp",
+  "name": "giphyapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
